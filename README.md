@@ -8,8 +8,9 @@
 
 <div align="center" id="global_informations_div">
 
-  Student IT in `Belgium` (Security Option) <br>
-  I’m currently working on Interdisciplinary Project  <br>
+  Student IT in `Belgium` (Security Option). <br>
+  I’m currently working on Interdisciplinary Project.  <br>
+  I like all things about network and backend.
   
 </div>
 
@@ -20,13 +21,14 @@
 ```📋 Languages ``` <br><br>
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-    ![REACT](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-    ![REACTBOOTSTRAP](https://img.shields.io/badge/React--Bootstrap-41E0FD?style=for-the-badge&logo=react-bootstrap&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+    ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+    ![ReactBootstrap](https://img.shields.io/badge/React--Bootstrap-41E0FD?style=for-the-badge&logo=react-bootstrap&logoColor=white)
     ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![LaTex](https://img.shields.io/badge/LaTex-008080?style=for-the-badge&logo=latex&logoColor=white)
     
 <br>```♾️ DevOps``` <br><br>
     ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
